@@ -2,5 +2,5 @@
 - 
 - Estou estudando Scratch, HTML, JAVA.
 - 
-- Sou professora formadora de programação no Ensino Médio
+- professora e estudante.
 
